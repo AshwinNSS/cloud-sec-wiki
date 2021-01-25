@@ -8,6 +8,11 @@ folder: mydoc
 {% include links.html %}
 
 
+## Blog and Research
+
+* [Simplify Kubernetes Resource Access Control using RBAC Impersonation](https://www.cncf.io/blog/2020/09/17/simplify-kubernetes-resource-access-control-using-rbac-impersonation/)
+
+
 ## Defensive Tools
 
 * [aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
