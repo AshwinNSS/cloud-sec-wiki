@@ -11,7 +11,9 @@ folder: mydoc
 ## Blog and Research
 
 * [Simplify Kubernetes Resource Access Control using RBAC Impersonation](https://www.cncf.io/blog/2020/09/17/simplify-kubernetes-resource-access-control-using-rbac-impersonation/)
-
+* [Kubernetes RBAC Security Pitfalls](https://www.impidio.com/blog/kubernetes-rbac-security-pitfalls)
+* [Attacking Kubernetes Clusters Through Your Network Plumbing: Part 1](https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-1)
+* [Applied Defense On Docker And Kubernetes](https://www.youtube.com/watch?v=auC712hFJes)
 
 ## Defensive Tools
 
